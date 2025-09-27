@@ -7,7 +7,8 @@ This project demonstrates a real-time machine learning pipeline using RabbitMQ f
 ```txt
 /rabbitMQ
 ├── docker-compose.yml       # Docker Compose file to set up RabbitMQ and producer services
-├── requirements.txt  
+├── requirements.txt 
+├── k7-ml-presentation.pdf  
 ├── README.md
 ├── UCI_Credit_Card.csv
 ├── save_model.py  
